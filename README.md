@@ -6,13 +6,12 @@ Hi there, I'm Ebtesam Alzaabi :wave:
 Degree: Bachelor's in  Informatin technology , Networking
 University: university of technology and applied science.
 Graduation Year: 2022
-:computer: About Me
 
+ About Me
 I'm a fresh graduate passionate about  Informatin technology (Networking). I recently completed my studies and I'm eager to apply my knowledge in real-world projects. I'm actively learning and building my skills in web development and software engineering.
 :hammer_and_wrench: Technical Skills
 
 Programming Languages
-
 Familiar: Paket Tracer , c and JavaScript programming.
 Learning: C# , Java
 Web Development , Softwer enginnering
