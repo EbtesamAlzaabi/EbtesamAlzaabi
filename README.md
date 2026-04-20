@@ -1,7 +1,6 @@
-"# EbtesamAlzaabi" 
 Hi there, I'm Ebtesam Alzaabi :wave:
 
-:mortar_board: Education
+:mortar_board: Educatio
 
 
 Degree: Bachelor's in  Informatin technology , Networking
