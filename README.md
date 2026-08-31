@@ -1,51 +1,72 @@
-Hi there, I'm Ebtesam Alzaabi :wave:
+# Hi there, I'm Ebtesam Alzaabi 👋
 
-:mortar_board: Educatio
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=EbtesamAlzaabi&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
+---
 
-Degree: Bachelor's in  Informatin technology , Networking
-University: university of technology and applied science.
-Graduation Year: 2022
+### 💻 About Me
+* 🌱 Software Developer specializing in backend engineering and full-stack web applications.
+* 🎓 Bachelor’s Degree in Information Technology (Networking specialty).
+* 🚀 Passionate about building robust RESTful Web APIs, clean database architectures, and scalable enterprise solutions.
 
- About Me
-I'm a fresh graduate passionate about  Informatin technology (Networking). I recently completed my studies and I'm eager to apply my knowledge in real-world projects. I'm actively learning and building my skills in web development and software engineering.
-:hammer_and_wrench: Technical Skills
+---
 
-Programming Languages
-Familiar: Paket Tracer , c and JavaScript programming.
-Learning: C# , Java
-Web Development , Softwer enginnering
+### 🛠️ Tech Stack & Tools
 
+**Backend & Databases:**
+<p>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+</p>
 
-Frontend: HTML, CSS, JavaScript.
-Backend: ASP.NET Core, Node.js and Django.
-Database: SQL Server
-Tools & Technologies
+**Frontend & Languages:**
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
+</p>
 
+**Tools & Version Control:**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
+</p>
 
-Version Control: Git, GitHub.
-IDEs: Visual Studio, VS Code.
-GIS system (Fiber Network mapping).
-:books: What I'm Currently Learning
+---
 
+### 🚀 Featured Projects
 
-I learning now about git,github,c#,SQL server, database.
-I want to develop my skills in web development and software engineering.
-I got acertificate in GIS system from omanbrodband company.
-:telescope: Projects
+* 🌟 **منظومة نفاذ:** National academy management and training platform built with collaborative team efforts, featuring robust C# backend APIs and Angular portals.
+* 📦 **TaskDelivery API:** RESTful delivery order management system developed using ASP.NET Core, EF Core, and SQL Server.
+* 👶 **نظام خطوة (Khatwa.API):** ASP.NET Core backend platform designed for monitoring children's developmental skills and tracking progress.
+* 💼 **Micro-Gigs:** A modular freelance marketplace backend API built with C#, Entity Framework Core, and JWT authentication.
 
-Brainwave enabled mobility for the neurologically (GRADUATION PROJECT).
-:mailbox: How to Reach Me
+---
 
-Email:ebtesamobaid123@gmail.com
+### 📚 What I'm Currently Learning
+* Advanced application security practices and the OWASP Top 10 framework.
+* Writing clean, scalable, and maintainable enterprise .NET code.
 
-LinkedIn: www.linkedin.com/in/ebtesam-alzaabi-7b2ba2215
+---
 
+### 📈 GitHub Stats
 
-:seedling: Fun Facts
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=EbtesamAlzaabi&show_icons=true&theme=radical" alt="Ebtesam's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbtesamAlzaabi&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
 
-I love learning phrases in new languages.:star:
-I find peace in quiet spaces.:earth_africa:
-I believe small habits change everything.:dizzy:
-I adapt to new places quickly—just give me WiFi.:sunglasses:
-I talk to my computer when it crashes.:joy:
+---
+
+### 📬 How to Reach Me
+
+* 📧 **Email:** [ebtesamobaid123@gmail.com](mailto:ebtesamobaid123@gmail.com)
+* 💼 **LinkedIn:** [Ebtesam Alzaabi](https://www.linkedin.com/in/ebtesam-alzaabi-7b22a2215)
